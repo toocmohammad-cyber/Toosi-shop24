@@ -1,0 +1,17 @@
+gosha-kala/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Hero.js
+│   │   ├── ProductGrid.js
+│   │   └── Footer.js
+│   ├── styles/
+│   │   └── globals.css
+│   ├── App.js
+│   └── index.js
+├── package.json
+├── vercel.json
+└── README.md
